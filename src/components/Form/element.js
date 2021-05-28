@@ -5,7 +5,6 @@ import { colors } from '../variables';
 export const FormContainer = styled.form`
     width:100%;
     border-radius: 1rem;
-    height: 400px;
     padding:2rem;
     background-color: #fff;
     box-shadow: 0 0.6rem 0 0px  rgba(0,0,0,0.216);
